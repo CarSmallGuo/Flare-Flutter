@@ -11,7 +11,7 @@ dependencies:
   flare_dart:
     git: 
       url: git://github.com/CarSmallGuo/Flare-Flutter.git
-      ref: dev
+      ref: master
       path: flare_dart
 dev_dependencies:
   flutter_test:
